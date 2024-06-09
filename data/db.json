@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "text": "Belajar HTML",
+      "status": 1,
+      "created_at": "2024-06-06",
+      "id": "2"
+    },
+    {
+      "text": "pantaik",
+      "created_at": 1717906930182,
+      "status": 1,
+      "id": "8d54"
+    },
+    {
+      "text": "kontolodon",
+      "created_at": 1717907317070,
+      "status": 1,
+      "id": "d86e"
+    }
+  ]
+}
